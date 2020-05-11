@@ -39,3 +39,9 @@
 .footer .list-group-item {
   border-color: #fff;
 }
+@media (max-width: 731px) {
+  .main-bg {
+    height: auto;
+    padding: 10px 0;
+  } 
+}
