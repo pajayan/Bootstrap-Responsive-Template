@@ -1,3 +1,6 @@
+* {
+  scroll-behavior: smooth;
+}
 :root {
   --bg-color-one: #99cc43;
   --bg-color-two: #f7f7f7;
@@ -43,5 +46,5 @@
   .main-bg {
     height: auto;
     padding: 10px 0;
-  } 
+  }
 }
